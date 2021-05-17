@@ -1,4 +1,4 @@
-# JAMstack Crash Course - Build a Fullstack App with React, Serverless, and FaunaDB
+# JAMstack Fullstack App with React, Serverless, and FaunaDB
 
 This is the source code for the [JAMstack Crash Course video on
 YouTube]. It uses FaunaDB (with GraphQL), Netlify, and React to build
